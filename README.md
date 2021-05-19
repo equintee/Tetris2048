@@ -1,5 +1,5 @@
 # Tetris2048
-I made a game that combines Tetris and 2048 game mechanics.<br>
+I made a game with python that combines Tetris and 2048 game mechanics.<br>
 # How to play the game
 You can earn points by merging tetrominos or clearing lines.<br>
 To move you need to use arrow keys.<br>
